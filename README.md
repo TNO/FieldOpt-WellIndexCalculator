@@ -2,6 +2,8 @@
 The WellIndexCalculator library and executable is part of the 
 [FieldOpt project](https://github.com/PetroleumCyberneticsGroup/FieldOpt).
 
+This repository is not anymore used in the new FieldOpt repository!
+
 ## License
 The FieldOpt project, as a whole, is provided under the GNU General
 Public License Version 3. However, the code in this directory 
